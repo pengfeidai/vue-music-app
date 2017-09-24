@@ -1,6 +1,6 @@
 # 移动端音乐 WebApp
 
-👉 项目演示地址:http://www.dpfblog.com/vue-music-webapp/dist/index.html#/recommend
+👉 项目演示地址:http://www.dpfblog.com/vue-music-app/dist/index.html
 
 
 ![图片预览](http://oph264zoo.bkt.clouddn.com/17-8-11/52879457.jpg)
